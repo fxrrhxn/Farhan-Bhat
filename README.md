@@ -2,7 +2,7 @@
 
 I'm a 21-year-old developer based in Kashmir, and I'm passionate about crafting digital experiences.
 
-- Stay updated with my journery and connect with me on [Instagram](https://instagram.com/fxrrhxn), [Youtube](https://youtube.com/@fxrrhxn) and [X](https://twitter.com/fxrrhxn)
+- Stay updated with my journery and connect with me on [Instagram](https://instagram.com/fxrrhxn), [Youtube](https://youtube.com/@fxrrhxn) and [X](https://twitter.com/fxrrhxn).
 
 ## 📦 Tooolbox/Skills
 
