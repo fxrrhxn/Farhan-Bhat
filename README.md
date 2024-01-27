@@ -22,7 +22,6 @@ I'm a Beginner Programmer passionate about Web Development & App Developmnet. I'
 
 ## 📫 Connect with Me
 
-[![LinkedIn](images/linkedin.png)](www.linkedin.com/in/fxrrhxn)
 [![Twitter/X](images/twitter.png)](https://twitter.com/fxrrhxn?s=21&t=30HVwdRMrusb6galrDRGzw)
 [![Instagram](images/instagram.png)](https://instagram.com/fxrrhxn.py)
 
