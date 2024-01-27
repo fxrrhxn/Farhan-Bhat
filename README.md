@@ -10,10 +10,6 @@ I'm a 21-year-old developer based in Kashmir, and I'm passionate about crafting 
 - SQL
 - Git
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fxrrhxn&show_icons=true&hide=contribs)
-
 ## 🎉 Fun Facts
 
 - I like Photography & Filmmaking.
