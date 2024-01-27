@@ -26,4 +26,5 @@ For a Quick Response, DM me on Instagram or X.
 [![Twitter/X](images/twitter.png)](https://twitter.com/fxrrhxn?s=21&t=30HVwdRMrusb6galrDRGzw)
 [![Instagram](images/instagram.png)](https://instagram.com/fxrrhxn.py)
 
-For more queries, You can reach out to me at [![My Email](images/gmail.png)](mailto:fxrrhxn@gmail.com)
+For more queries, You can reach out to me at through my email:
+[![Email](images/gmail.png)](mailto:fxrrhxn@gmail.com)
