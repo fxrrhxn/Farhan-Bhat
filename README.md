@@ -15,7 +15,8 @@ I'm a 21-year-old developer based in Kashmir, and I'm passionate about crafting 
 ## 🎉 Fun Facts
 
 - I like Photography & Filmmaking.
-- My favourite comic character is Deadpool!
+- My favourite comic characters are Deadpool & Thor.
+- My favourite sports are Formula 1 & MotoGP.
 
 ## 📫 Contact
 
