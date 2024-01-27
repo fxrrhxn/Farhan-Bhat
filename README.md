@@ -1,29 +1,14 @@
-# Hello World! I'm Farhan 👋
+### Hey! I'm Farhan 👋🏼
 
-![Banner](images/banner.PNG)
+I'm a 21-year-old developer based in Kashmir, and I'm passionate about crafting digital experiences.
 
-I'm a Beginner Programmer passionate about Web Development & App Developmnet. I'm also very passionate about techn and all things related to it. Welcome to my corner of the GitHub universe!
-
-## 🔭 What I Do
-
-- I like to work on projects, create apps, work on solving problems and I try to have fun while doing it all!
-
-## 🌱 Currently Learning
-
-- Currently working on my Python skills and making steps everyday.
-
-## 🛠️ Skills
+## 📦 Tooolbox/Skills:
 
 - HTML
 - CSS
 - Python
 - SQL
 - Git
-
-## 📫 Connect with Me
-
-[![Twitter/X](images/twitter.png)](https://twitter.com/fxrrhxn?s=21&t=30HVwdRMrusb6galrDRGzw)
-[![Instagram](images/instagram.png)](https://instagram.com/fxrrhxn.py)
 
 ## 📊 GitHub Stats
 
@@ -34,6 +19,11 @@ I'm a Beginner Programmer passionate about Web Development & App Developmnet. I'
 - I like Photography & Filmmaking.
 - My favourite comic character is Deadpool!
 
-## 📧 Contact
+## 📫 Contact:
 
-Feel free to reach out to me at fxrrhxn@gmail.com or you can DM me on Instagram, X or LinkedIn
+For a Quick Response, DM me on Instagram or X.
+
+[![Twitter/X](images/twitter.png)](https://twitter.com/fxrrhxn?s=21&t=30HVwdRMrusb6galrDRGzw)
+[![Instagram](images/instagram.png)](https://instagram.com/fxrrhxn.py)
+
+For more queries, You can reach out to me at [![My Email](mailto:fxrrhxn@gmail.com)]
