@@ -1,26 +1,20 @@
 ### Hey! I'm Farhan 👋🏼
 
-I'm a 21-year-old developer and College student based in Kashmi. I'm passionate about Web Development, Ai & ML, and everything related to Tech and Development.
+I'm a 21-year-old developer and College student based in Kashmir. I'm passionate about Web Development, Ai & ML, and everything related to Tech and Development.
 
 - Stay updated with my journery and connect with me on [Instagram](https://instagram.com/fxrrhxn.py), [Youtube](https://youtube.com/@fxrrhxn) and [X](https://twitter.com/fxrrhxn).
 
----
-
 ## 📦 Skills/Languages Learnt So Far
 
--1 `Html` (Beginner)
--2 `CSS` (Beginner)
--3 `Python` (Intermediate)
--4 `Git`
-
----
+- 1 `Html` (Beginner)
+- 2 `CSS` (Beginner)
+- 3 `Python` (Intermediate)
+- 4 `Git`
 
 ## 👀 Fun Facts
 
 - My favourite comic characters are Deadpool & Thor.
 - My favourite sports are Formula 1 & MotoGP.
-
----
 
 ## 📫 Contact
 
