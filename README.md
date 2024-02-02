@@ -4,7 +4,7 @@ I'm a 21-year-old developer and College student based in Kashmir. I'm passionate
 
 - Stay updated with my journery and connect with me on [Instagram](https://instagram.com/fxrrhxn.py), [Youtube](https://youtube.com/@fxrrhxn) and [X](https://twitter.com/fxrrhxn).
 
-## 📦 Skills/Languages Learnt So Far
+## 📦 Skills Learnt So Far
 
 - 1 `Html`
 - 2 `CSS`
