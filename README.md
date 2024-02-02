@@ -6,11 +6,10 @@ I'm a 21-year-old developer based in Kashmir, and I'm passionate about crafting 
 
 ## 📦 Tooolbox/Skills
 
-- HTML
-- CSS
-- Python
-- SQL
-- Git
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![Python](https://img.shields.io/badge/-Python-green)
+![Git](https://img.shields.io/badge/-Git-black)
 
 ## 🎉 Fun Facts
 
