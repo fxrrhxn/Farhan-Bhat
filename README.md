@@ -6,9 +6,9 @@ I'm a 21-year-old developer and College student based in Kashmir. I'm passionate
 
 ## 📦 Skills/Languages Learnt So Far
 
-- 1 `Html` (Beginner)
-- 2 `CSS` (Beginner)
-- 3 `Python` (Intermediate)
+- 1 `Html`
+- 2 `CSS`
+- 3 `Python`
 - 4 `Git`
 
 ## 👀 Fun Facts
