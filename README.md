@@ -23,5 +23,3 @@ For a Quick Response, DM me on Instagram or X. For more Queries you can reach ou
 [![Twitter/X](images/twitter.png)](https://twitter.com/fxrrhxn "Twitter/X Profile")
 [![Instagram](images/instagram.png)](https://instagram.com/fxrrhxn.py "Instagram Profile")
 [![Email](images/gmail.png)](mailto:fxrrhxn@gmail.com "Email")
-
----
