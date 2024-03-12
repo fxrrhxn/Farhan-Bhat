@@ -7,7 +7,7 @@
 - Languages:
   `Python` `C`
 - Version Control:
-  `Git` & `Github`
+  `Git` `Github`
 
 ## 👀 Fun Facts
 
