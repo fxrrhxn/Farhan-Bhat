@@ -4,12 +4,12 @@ I'm a 21-year-old developer and College student based in Kashmir. I'm passionate
 
 - Connect with me on [X](https://twitter.com/fxrrhxn).
 
-## 📦 Skills Learnt So Far
+## 📦 Toolbox:
 
-- `HTML`
-- `CSS`
-- `Python`
-- `Git`
+- Languages:
+  `Python` `C`
+- Version Control:
+  `Git` & `Github`
 
 ## 👀 Fun Facts
 
