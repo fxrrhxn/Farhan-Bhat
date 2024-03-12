@@ -1,8 +1,6 @@
 ### Hey! I'm Farhan 👋🏼
 
-I'm a 21-year-old developer and College student based in Kashmir. I'm passionate about Web Development, Ai & ML, and everything related to Tech.
-
-- Connect with me on [X](https://twitter.com/fxrrhxn).
+- I'm a 21-year-old developer and College student based in Kashmir. I'm passionate about Web Development, Ai & ML, and everything related to Tech.
 
 ## 📦 Toolbox:
 
