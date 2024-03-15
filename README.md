@@ -5,7 +5,7 @@
 ## 📦 Toolbox:
 
 - Languages:
-  `Python` `C`
+  `Python`
 - Version Control:
   `Git` `Github`
 
