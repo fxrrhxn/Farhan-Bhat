@@ -1,6 +1,6 @@
 ### Hey! I'm Farhan 👋🏼
 
-- I'm a 21-year-old developer and College student based in Kashmir. I'm passionate about Web Development, Ai & ML, and everything related to Tech.
+- I'm a 21-year-old developer & student based in Kashmir. I'm passionate about Web Development, iOS Development, Artificial Intelligence & Machine Learning, and everything else related to Tech.
 
 ## 📦 Toolbox:
 
@@ -8,6 +8,10 @@
   `Python`
 - Version Control:
   `Git` `Github`
+- Libraries:
+  `Tkinter` `Pygame`
+- Frameworks:
+  `None`
 
 ## 👀 Fun Facts
 
