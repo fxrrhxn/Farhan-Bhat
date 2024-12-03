@@ -6,7 +6,7 @@
 
 - Languages:
   `Python` `C++`
-  Currently Learning :`Java`
+- Currently Learning :`Java`
 - Version Control:
   `Git` `Github`
 - Libraries:
